@@ -1,0 +1,13 @@
+.project img{
+    height: 90%;
+    width: 100%;
+}
+.project{
+    padding: 2rem;
+}
+.project h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}

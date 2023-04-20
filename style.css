@@ -237,15 +237,15 @@
 }
 .card{
     position: relative;
-    width: 200px;
-    height: 200px;
-    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
     border: none;
     margin: 4px;
 }
 .img-fluid{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 15px;
     border: none;
 }
@@ -300,6 +300,7 @@ a{
 
 .contact h1 {
     font-weight: bold;
+    font-size: 40px;
 }
 
 .foot {
@@ -308,6 +309,10 @@ a{
     padding: 1%;
 
 
+}
+.foot h6{
+    display: flex;
+    align-items: end;
 }
 
 .contact h4 {
