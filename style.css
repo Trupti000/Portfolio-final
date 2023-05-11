@@ -234,6 +234,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 15%;
 }
 .card{
     position: relative;
@@ -246,7 +247,7 @@
 .img-fluid{
     width: 300px;
     height: 300px;
-    border-radius: 15px;
+    border-radius: 19px;
     border: none;
 }
 .overlay{
@@ -317,4 +318,7 @@ a{
 
 .contact h4 {
     font-weight: bolder;
+}
+.contact{
+    padding: 10%;
 }
